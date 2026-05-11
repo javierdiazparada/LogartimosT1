@@ -106,7 +106,7 @@ un log textual en `results/required_experiments_progress.log`.
 
 - CMake 3.16 o superior
 - Compilador con soporte C++20
-- En Windows, Visual Studio Build Tools funciona correctamente
+- En Windows, Visual Studio Build Tools
 
 ### Python para graficos
 
